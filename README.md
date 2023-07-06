@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Weston, a full-time back-end developer based in Boulder Colorado</div>  
+### <div align="center">I'm Weston, a back-end developer based in Boulder Colorado</div>  
   
 
 - 🔭 I’m currently working on [Ruby for Good's CASA Project](https://github.com/rubyforgood/casa)  
