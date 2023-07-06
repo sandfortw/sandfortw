@@ -10,7 +10,8 @@
   
 
 - ❓ Ask me about my experience at [Turing School of Software and Design](https://turing.edu/)  
-  
+
+- 📫 Reach me at: sandfortw@gmail.com
 
 <br/>  
 
