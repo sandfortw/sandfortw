@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Ruby for Good's CASA Project](https://github.com/rubyforgood/casa)  
   
 
-- 🌱 I’m currently learning JavaScript and React  
+- 🌱 I’m currently creating an API project with Django REST framework. 
   
 
 - ❓ Ask me about my experience at [Turing School of Software and Design](https://turing.edu/)  
