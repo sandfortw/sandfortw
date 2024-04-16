@@ -1,10 +1,10 @@
 ### <div align="center">I'm Weston, a full-stack developer based in Boulder, CO
   
 
-- 🔭 I’m currently working on [Ruby for Good's CASA Project](https://github.com/rubyforgood/casa)    
+- 🔭 I’m currently working on [A CRM Demo to learn hotwire/Turbo](https://github.com/Elfify/crm_demo)    
   
 
-- 🌱 Currently working on an AWS Certification  
+- 🌱 Currently learning about Turbo Frames for Rails
   
 
 - ❓ Ask me about my experience at [Turing School of Software and Design](https://turing.edu/)    
